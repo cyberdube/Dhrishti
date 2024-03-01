@@ -21,8 +21,6 @@ Things we have done in making this projects are:-
 # [Project Link](https://kietian.netlify.app/)
 
 
-<img src = "b.png" width = "550" height = "400">
-
 
 <img src = "ab.gif" width = "700" height = "400">
 
