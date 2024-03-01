@@ -15,13 +15,13 @@ Things we have done in making this projects are:-
 ->Adding third person camera follow and fbx file of 3D model in Unity </br>
 ->Deploying project on Webgl. </br>
 
-<img src = "a.jpg" width = "550" height = "400">
+<img src = "a.png" width = "550" height = "400">
 
 ## Demo
 # [Project Link](https://kietian.netlify.app/)
 
 
-<img src = "b.jpg" width = "550" height = "400">
+<img src = "b.png" width = "550" height = "400">
 
 
 <img src = "ab.gif" width = "700" height = "400">
